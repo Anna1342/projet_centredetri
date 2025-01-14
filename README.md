@@ -1,15 +1,24 @@
 
-# Gestion de Tri Sélectif
+# Projet gestion de tri sélectif
 
-## Description du Projet
+## Description
+Ce projet développe un système de gestion de tri sélectif innovant basé sur des poubelles connectées, récompensant les utilisateurs pour un tri correct des déchets et collaborant avec des commerces pour offrir des avantages en retour.
 
-Ce projet a pour objectif de développer un système de gestion de tri sélectif, impliquant des poubelles intelligentes, 
-des utilisateurs récompensés pour leur tri correct, et des partenariats avec des commerces pour un impact écologique positif.
+### Pré-requis
+- **Java 18** ou supérieur.
+- Dépendances : Classe Main.java pour exécuter le projet, classe MainTest.java pour tester les fonctionnalités.
 
----
+### Installation
+Configurez un environnement Java 18.
+Instanciez un Centre de Tri et une Application pour commencer.
+Exécutez Main.java pour tester les fonctionnalités.
+
+### Résultats attendus
+Un système fonctionnel de gestion de tri sélectif avec :
+- Récompenses utilisateur sous forme de points convertibles.
+- Collaboration avec des commerces pour des réductions.
 
 ## Grandes Lignes du Projet
-
 1. **Tri Sélectif Intégré :**
    - Poubelles connectées pour séparer les déchets : verre, plastique, carton, métal.
    - Accès contrôlé par des comptes utilisateur.
@@ -23,8 +32,6 @@ des utilisateurs récompensés pour leur tri correct, et des partenariats avec d
 
 4. **Analyse Statistique :**
    - Suivi et prédiction des dépôts pour optimiser la gestion logistique.
-
----
 
 ## Fonctionnalités des Classes
 
@@ -56,30 +63,11 @@ des utilisateurs récompensés pour leur tri correct, et des partenariats avec d
 ### Tests
 - Classes de test pour valider les fonctionnalités : **MainTest.java**.
 
----
-
-## Guide d'Utilisation
-
-Pré-requis au lancement du projet: instanciation d'un centre de tri et d'une application 
-
-Afin de lancer les tests, lancer la classe `Main.java`. 
-
-
-### Pré-requis
-- **Java 18** ou supérieur.
-
----
+## Auteurs
+- ANTOGNELLI Pauline
+- FARCHAK Marouane
+- TESTART Léandre
+- SZWARCBART Anna
 
 ## Licence
-
 Ce projet est sous licence [MIT](LICENSE).
-
----
-
-## Auteurs
-
-- **ANTOGNELLI Pauline**
-- **FARCHAK Marouane**
-- **TESTART Léandre**
-- **SZWARCBART Anna**
-
